@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGOATLAS_PWD": "admin"
+    }
+}
